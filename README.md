@@ -1,5 +1,6 @@
 # Credit-default-prediction
-This project aims to build a machine learning model to predict whether a customer will default on their credit payments based on various financial and demographic features
+# Introduction
+This project develops a robust credit card default prediction system for Bank A to assess and manage credit risk within their existing customer portfolio. The system implements a sophisticated behavior scoring model that predicts the probability of customer defaults
 # Project Overview
 Uses supervised learning techniques to classify customers as likely to default or not.
 
